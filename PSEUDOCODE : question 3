@@ -1,0 +1,24 @@
+start
+//input 
+Enter a
+Enter operator 1 (+) , (-)
+Enter b 
+Enter operator 2 (+) , (-)
+Enter c 
+//process
+R = 0
+If operator 1 == + and operator 2 == + Then 
+  R = a+b+c
+  print " R "
+Else if operator 1 == - and operator 2 == + Then 
+  R = a-b+c
+  print " R "
+Else if operator 1 == + and operator 2 == - Then 
+  R = a+b-c
+  print " R "
+Else if operator 1 == - and operator 2 == - Then
+  R = a-b-c
+  print " R "
+Else 
+  print " you enter wrong operator "
+END 
