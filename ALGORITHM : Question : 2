@@ -1,0 +1,28 @@
+Start
+Input n (where n is integer)
+If n = 1,
+print "January".
+If n = 2,
+print "February".
+If n = 3,
+print "March".
+If n = 4,
+print "April".
+If n = 5,
+print "May".
+If n = 6,
+print "June".
+If n = 7,
+print "July".
+If n = 8,
+print "August".
+If n = 9,
+print "September".
+If n = 10,
+print "October".
+If n = 11,
+print "November".
+If n = 12,
+print "December".
+Otherwise print "inappropriate month"
+End
