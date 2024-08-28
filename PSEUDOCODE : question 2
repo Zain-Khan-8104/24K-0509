@@ -1,0 +1,11 @@
+start
+//input / output 
+Enter num 1
+Enter num 2
+Enter num 3
+//process
+C = 0 , SUM = 0
+C = num 1 - (-num 2)
+SUM = C - (- num 3)
+print " SUM "
+END 
