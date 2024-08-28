@@ -1,1 +1,16 @@
+Start
+Input n
+Input N
+Solve n/N to check remainder 
+If n/N = 0 
+N is a divisor of n
+Otherwise N is not a divisor if n 
+To check n is even or odd 
+Check n is divisible by (2) 
+IF yes it is  even 
+Otherwise it is odd 
+print " N is not divisor of n "
+print " N is even or odd "
+end 
+
 
