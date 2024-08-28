@@ -1,6 +1,6 @@
 start
 input a
-input operators ( + , - , x , / , % )
+input operators ( + , - , * , / , % )
 input b 
 result = 0
 If operator is + then
@@ -10,7 +10,7 @@ Else if operator is - then
 result = a-b
 print "result"
 Else if operator is x then
-result = axb
+result = a*b
 print "result"
 Else if operator is / then
 result = a/b
