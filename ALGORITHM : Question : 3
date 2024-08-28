@@ -1,0 +1,23 @@
+start
+input a
+input operators ( + , - , x , / , % )
+input b 
+result = 0
+If operator is + then
+result = a+b
+print "result"
+Else if operator is - then
+result = a-b
+print "result"
+Else if operator is x then
+result = axb
+print "result"
+Else if operator is / then
+result = a/b
+print "result"
+Else if operator is % then
+result = a%b
+print "result"
+Else 
+print "you enter wrong operator"
+END 
