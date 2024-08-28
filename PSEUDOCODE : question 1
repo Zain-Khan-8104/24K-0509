@@ -1,1 +1,12 @@
-
+start
+// input /output 
+Enter num 1 
+Enter num 2
+Enter num 3
+//process
+If num 1 > num 2 and num 1 > num 3 Then 
+print " num 1 is maximum "
+Else if num 2 > num 3 Then 
+print " num 2 is maximum " Then 
+If print " num 3 is maximum "
+End 
